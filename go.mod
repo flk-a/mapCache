@@ -1,4 +1,4 @@
-module mapCache
+module github.com/flk-a/mapCache
 
 go 1.18
 
